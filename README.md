@@ -83,3 +83,25 @@ Improve healthcare accessibility for underserved rural communities
 SDG 11 – Sustainable Cities and Communities
 
 Strengthen resilient and connected healthcare systems
+
+
+
+
+Main Technologies Used
+Frontend
+✅ React
+✅ TypeScript
+✅ Vite
+✅ Tailwind CSS
+✅ PostCSS
+Backend
+✅ Supabase
+PostgreSQL Database
+Authentication
+Storage
+Edge Functions (if used)
+Development Tools
+✅ Node.js
+✅ npm
+✅ ESLint
+✅ Git
